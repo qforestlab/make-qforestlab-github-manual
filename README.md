@@ -1,4 +1,4 @@
-# How to put your manual on Github
+# How to put your manual on GitHub
 If you want to put a manual on the Q-ForestLab GitHub follow the steps explained in this manual.
 
 ## Steps
